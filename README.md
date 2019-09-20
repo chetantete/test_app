@@ -22,4 +22,6 @@ application up and running.
 
 * Deployment instructions : N/A
 
+* updated readme file
+
 * ...
