@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions : N/A
 
+* updated readme file
+
 * ...
